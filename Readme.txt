@@ -1,4 +1,6 @@
-Thanks for downloading this template!
+This is my personal profile page. 
+
+Thanks for the template by:
 
 Template Name: Kelly
 Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
